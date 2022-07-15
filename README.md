@@ -2,7 +2,7 @@
 
 https://www.thedigitalstandard.org/
 
-## About the Standard
+## About the Digital Standard
 
 [The Digital Standard](https://www.thedigitalstandard.org/) is an ambitious, community-led effort to build a framework to test and rate products and services on the basis of privacy, security, and data practices.
 
